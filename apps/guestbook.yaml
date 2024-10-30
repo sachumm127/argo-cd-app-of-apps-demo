@@ -12,7 +12,7 @@ spec:
   project: poctestproject
   source:
     path: general/helm-guestbook
-    repoURL: https://github.com/morey-tech/argocd-example-apps
+    repoURL: https://github.com/sachumm127/argocd-example-apps
     targetRevision: HEAD
   syncPolicy:
     automated:
