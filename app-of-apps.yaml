@@ -10,7 +10,7 @@ spec:
     path: apps
     repoURL: 'https://github.com/morey-tech/argo-cd-app-of-apps-demo'
     targetRevision: HEAD
-  project: default
+  project: poctestproject
   # syncPolicy:
   #   automated:
   #     prune: true
