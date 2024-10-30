@@ -9,7 +9,7 @@ spec:
   destination:
     namespace: guestbook
     name: kind
-  project: default
+  project: poctestproject
   source:
     path: general/helm-guestbook
     repoURL: https://github.com/morey-tech/argocd-example-apps
